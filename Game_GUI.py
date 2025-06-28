@@ -1,3 +1,4 @@
+#Help taken from perplexity.ai to create some parts of the GUI
 from tkinter import *
 import random
 
